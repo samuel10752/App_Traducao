@@ -1,9 +1,0 @@
-01/01/2025 19:30:48 - Tradução iniciada em: 2025-01-01_19-30-48
-01/01/2025 19:30:48 - Processando página 1
-01/01/2025 19:30:50 - Processando página 2
-01/01/2025 19:30:52 - Processando página 3
-01/01/2025 19:30:53 - Processando página 4
-01/01/2025 19:30:54 - Processando página 5
-01/01/2025 19:30:54 - Processando página 6
-01/01/2025 19:30:55 - Processando página 7
-01/01/2025 19:30:56 - Processando página 8
