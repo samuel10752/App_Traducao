@@ -1,0 +1,864 @@
+01/01/2025 16:15:04 - Tradução iniciada em: 2025-01-01_16-15-04
+01/01/2025 16:15:04 - Processando página 1 de 306
+01/01/2025 16:15:04 - Página 1 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_1.pdf
+01/01/2025 16:15:04 - Processando página 2 de 306
+01/01/2025 16:15:04 - Nenhuma imagem encontrada na página 2
+01/01/2025 16:15:04 - Página 2 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_2.pdf
+01/01/2025 16:15:04 - Processando página 3 de 306
+01/01/2025 16:15:04 - Página 3 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_3.pdf
+01/01/2025 16:15:04 - Processando página 4 de 306
+01/01/2025 16:15:04 - Nenhuma imagem encontrada na página 4
+01/01/2025 16:15:05 - Página 4 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_4.pdf
+01/01/2025 16:15:05 - Processando página 5 de 306
+01/01/2025 16:15:05 - Nenhuma imagem encontrada na página 5
+01/01/2025 16:15:05 - Página 5 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_5.pdf
+01/01/2025 16:15:05 - Processando página 6 de 306
+01/01/2025 16:15:05 - Nenhuma imagem encontrada na página 6
+01/01/2025 16:15:05 - Página 6 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_6.pdf
+01/01/2025 16:15:05 - Processando página 7 de 306
+01/01/2025 16:15:05 - Página 7 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_7.pdf
+01/01/2025 16:15:05 - Processando página 8 de 306
+01/01/2025 16:15:05 - Nenhuma imagem encontrada na página 8
+01/01/2025 16:15:06 - Página 8 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_8.pdf
+01/01/2025 16:15:06 - Processando página 9 de 306
+01/01/2025 16:15:06 - Nenhuma imagem encontrada na página 9
+01/01/2025 16:15:06 - Página 9 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_9.pdf
+01/01/2025 16:15:06 - Processando página 10 de 306
+01/01/2025 16:15:06 - Nenhuma imagem encontrada na página 10
+01/01/2025 16:15:06 - Página 10 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_10.pdf
+01/01/2025 16:15:06 - Processando página 11 de 306
+01/01/2025 16:15:06 - Nenhuma imagem encontrada na página 11
+01/01/2025 16:15:07 - Página 11 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_11.pdf
+01/01/2025 16:15:07 - Processando página 12 de 306
+01/01/2025 16:15:07 - Nenhuma imagem encontrada na página 12
+01/01/2025 16:15:07 - Página 12 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_12.pdf
+01/01/2025 16:15:07 - Processando página 13 de 306
+01/01/2025 16:15:07 - Página 13 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_13.pdf
+01/01/2025 16:15:07 - Processando página 14 de 306
+01/01/2025 16:15:07 - Nenhuma imagem encontrada na página 14
+01/01/2025 16:15:08 - Página 14 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_14.pdf
+01/01/2025 16:15:08 - Processando página 15 de 306
+01/01/2025 16:15:08 - Nenhuma imagem encontrada na página 15
+01/01/2025 16:15:08 - Página 15 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_15.pdf
+01/01/2025 16:15:08 - Processando página 16 de 306
+01/01/2025 16:15:09 - Página 16 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_16.pdf
+01/01/2025 16:15:09 - Processando página 17 de 306
+01/01/2025 16:15:09 - Página 17 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_17.pdf
+01/01/2025 16:15:09 - Processando página 18 de 306
+01/01/2025 16:15:09 - Nenhuma imagem encontrada na página 18
+01/01/2025 16:15:09 - Página 18 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_18.pdf
+01/01/2025 16:15:09 - Processando página 19 de 306
+01/01/2025 16:15:09 - Nenhuma imagem encontrada na página 19
+01/01/2025 16:15:10 - Página 19 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_19.pdf
+01/01/2025 16:15:10 - Processando página 20 de 306
+01/01/2025 16:15:10 - Página 20 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_20.pdf
+01/01/2025 16:15:10 - Processando página 21 de 306
+01/01/2025 16:15:10 - Nenhuma imagem encontrada na página 21
+01/01/2025 16:15:10 - Página 21 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_21.pdf
+01/01/2025 16:15:10 - Processando página 22 de 306
+01/01/2025 16:15:10 - Nenhuma imagem encontrada na página 22
+01/01/2025 16:15:11 - Página 22 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_22.pdf
+01/01/2025 16:15:11 - Processando página 23 de 306
+01/01/2025 16:15:11 - Nenhuma imagem encontrada na página 23
+01/01/2025 16:15:11 - Página 23 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_23.pdf
+01/01/2025 16:15:11 - Processando página 24 de 306
+01/01/2025 16:15:12 - Página 24 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_24.pdf
+01/01/2025 16:15:12 - Processando página 25 de 306
+01/01/2025 16:15:12 - Nenhuma imagem encontrada na página 25
+01/01/2025 16:15:12 - Página 25 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_25.pdf
+01/01/2025 16:15:12 - Processando página 26 de 306
+01/01/2025 16:15:12 - Nenhuma imagem encontrada na página 26
+01/01/2025 16:15:13 - Página 26 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_26.pdf
+01/01/2025 16:15:13 - Processando página 27 de 306
+01/01/2025 16:15:13 - Nenhuma imagem encontrada na página 27
+01/01/2025 16:15:13 - Página 27 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_27.pdf
+01/01/2025 16:15:13 - Processando página 28 de 306
+01/01/2025 16:15:13 - Página 28 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_28.pdf
+01/01/2025 16:15:13 - Processando página 29 de 306
+01/01/2025 16:15:13 - Nenhuma imagem encontrada na página 29
+01/01/2025 16:15:14 - Página 29 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_29.pdf
+01/01/2025 16:15:14 - Processando página 30 de 306
+01/01/2025 16:15:14 - Nenhuma imagem encontrada na página 30
+01/01/2025 16:15:14 - Página 30 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_30.pdf
+01/01/2025 16:15:14 - Processando página 31 de 306
+01/01/2025 16:15:16 - Página 31 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_31.pdf
+01/01/2025 16:15:16 - Processando página 32 de 306
+01/01/2025 16:15:16 - Nenhuma imagem encontrada na página 32
+01/01/2025 16:15:16 - Página 32 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_32.pdf
+01/01/2025 16:15:16 - Processando página 33 de 306
+01/01/2025 16:15:16 - Nenhuma imagem encontrada na página 33
+01/01/2025 16:15:16 - Página 33 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_33.pdf
+01/01/2025 16:15:16 - Processando página 34 de 306
+01/01/2025 16:15:17 - Página 34 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_34.pdf
+01/01/2025 16:15:17 - Processando página 35 de 306
+01/01/2025 16:15:17 - Nenhuma imagem encontrada na página 35
+01/01/2025 16:15:17 - Página 35 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_35.pdf
+01/01/2025 16:15:17 - Processando página 36 de 306
+01/01/2025 16:15:17 - Nenhuma imagem encontrada na página 36
+01/01/2025 16:15:17 - Página 36 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_36.pdf
+01/01/2025 16:15:17 - Processando página 37 de 306
+01/01/2025 16:15:18 - Nenhuma imagem encontrada na página 37
+01/01/2025 16:15:18 - Página 37 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_37.pdf
+01/01/2025 16:15:18 - Processando página 38 de 306
+01/01/2025 16:15:18 - Nenhuma imagem encontrada na página 38
+01/01/2025 16:15:18 - Página 38 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_38.pdf
+01/01/2025 16:15:18 - Processando página 39 de 306
+01/01/2025 16:15:18 - Página 39 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_39.pdf
+01/01/2025 16:15:18 - Processando página 40 de 306
+01/01/2025 16:15:18 - Nenhuma imagem encontrada na página 40
+01/01/2025 16:15:19 - Página 40 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_40.pdf
+01/01/2025 16:15:19 - Processando página 41 de 306
+01/01/2025 16:15:19 - Nenhuma imagem encontrada na página 41
+01/01/2025 16:15:20 - Página 41 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_41.pdf
+01/01/2025 16:15:20 - Processando página 42 de 306
+01/01/2025 16:15:20 - Nenhuma imagem encontrada na página 42
+01/01/2025 16:15:20 - Página 42 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_42.pdf
+01/01/2025 16:15:20 - Processando página 43 de 306
+01/01/2025 16:15:20 - Nenhuma imagem encontrada na página 43
+01/01/2025 16:15:20 - Página 43 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_43.pdf
+01/01/2025 16:15:20 - Processando página 44 de 306
+01/01/2025 16:15:20 - Nenhuma imagem encontrada na página 44
+01/01/2025 16:15:21 - Página 44 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_44.pdf
+01/01/2025 16:15:21 - Processando página 45 de 306
+01/01/2025 16:15:21 - Página 45 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_45.pdf
+01/01/2025 16:15:21 - Processando página 46 de 306
+01/01/2025 16:15:21 - Nenhuma imagem encontrada na página 46
+01/01/2025 16:15:21 - Página 46 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_46.pdf
+01/01/2025 16:15:21 - Processando página 47 de 306
+01/01/2025 16:15:21 - Nenhuma imagem encontrada na página 47
+01/01/2025 16:15:22 - Página 47 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_47.pdf
+01/01/2025 16:15:22 - Processando página 48 de 306
+01/01/2025 16:15:22 - Nenhuma imagem encontrada na página 48
+01/01/2025 16:15:22 - Página 48 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_48.pdf
+01/01/2025 16:15:22 - Processando página 49 de 306
+01/01/2025 16:15:22 - Nenhuma imagem encontrada na página 49
+01/01/2025 16:15:22 - Página 49 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_49.pdf
+01/01/2025 16:15:22 - Processando página 50 de 306
+01/01/2025 16:15:22 - Nenhuma imagem encontrada na página 50
+01/01/2025 16:15:23 - Página 50 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_50.pdf
+01/01/2025 16:15:23 - Processando página 51 de 306
+01/01/2025 16:15:23 - Nenhuma imagem encontrada na página 51
+01/01/2025 16:15:23 - Página 51 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_51.pdf
+01/01/2025 16:15:23 - Processando página 52 de 306
+01/01/2025 16:15:24 - Página 52 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_52.pdf
+01/01/2025 16:15:24 - Processando página 53 de 306
+01/01/2025 16:15:24 - Nenhuma imagem encontrada na página 53
+01/01/2025 16:15:24 - Página 53 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_53.pdf
+01/01/2025 16:15:24 - Processando página 54 de 306
+01/01/2025 16:15:24 - Nenhuma imagem encontrada na página 54
+01/01/2025 16:15:25 - Página 54 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_54.pdf
+01/01/2025 16:15:25 - Processando página 55 de 306
+01/01/2025 16:15:25 - Nenhuma imagem encontrada na página 55
+01/01/2025 16:15:25 - Página 55 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_55.pdf
+01/01/2025 16:15:25 - Processando página 56 de 306
+01/01/2025 16:15:25 - Nenhuma imagem encontrada na página 56
+01/01/2025 16:15:25 - Página 56 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_56.pdf
+01/01/2025 16:15:25 - Processando página 57 de 306
+01/01/2025 16:15:25 - Nenhuma imagem encontrada na página 57
+01/01/2025 16:15:25 - Página 57 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_57.pdf
+01/01/2025 16:15:26 - Processando página 58 de 306
+01/01/2025 16:15:26 - Página 58 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_58.pdf
+01/01/2025 16:15:26 - Processando página 59 de 306
+01/01/2025 16:15:26 - Nenhuma imagem encontrada na página 59
+01/01/2025 16:15:26 - Página 59 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_59.pdf
+01/01/2025 16:15:26 - Processando página 60 de 306
+01/01/2025 16:15:26 - Nenhuma imagem encontrada na página 60
+01/01/2025 16:15:27 - Página 60 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_60.pdf
+01/01/2025 16:15:27 - Processando página 61 de 306
+01/01/2025 16:15:27 - Nenhuma imagem encontrada na página 61
+01/01/2025 16:15:27 - Página 61 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_61.pdf
+01/01/2025 16:15:27 - Processando página 62 de 306
+01/01/2025 16:15:27 - Nenhuma imagem encontrada na página 62
+01/01/2025 16:15:28 - Página 62 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_62.pdf
+01/01/2025 16:15:28 - Processando página 63 de 306
+01/01/2025 16:15:28 - Nenhuma imagem encontrada na página 63
+01/01/2025 16:15:28 - Página 63 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_63.pdf
+01/01/2025 16:15:28 - Processando página 64 de 306
+01/01/2025 16:15:28 - Nenhuma imagem encontrada na página 64
+01/01/2025 16:15:28 - Página 64 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_64.pdf
+01/01/2025 16:15:28 - Processando página 65 de 306
+01/01/2025 16:15:28 - Nenhuma imagem encontrada na página 65
+01/01/2025 16:15:29 - Página 65 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_65.pdf
+01/01/2025 16:15:29 - Processando página 66 de 306
+01/01/2025 16:15:29 - Página 66 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_66.pdf
+01/01/2025 16:15:29 - Processando página 67 de 306
+01/01/2025 16:15:29 - Nenhuma imagem encontrada na página 67
+01/01/2025 16:15:29 - Página 67 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_67.pdf
+01/01/2025 16:15:29 - Processando página 68 de 306
+01/01/2025 16:15:29 - Nenhuma imagem encontrada na página 68
+01/01/2025 16:15:30 - Página 68 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_68.pdf
+01/01/2025 16:15:30 - Processando página 69 de 306
+01/01/2025 16:15:30 - Nenhuma imagem encontrada na página 69
+01/01/2025 16:15:30 - Página 69 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_69.pdf
+01/01/2025 16:15:30 - Processando página 70 de 306
+01/01/2025 16:15:30 - Página 70 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_70.pdf
+01/01/2025 16:15:30 - Processando página 71 de 306
+01/01/2025 16:15:30 - Nenhuma imagem encontrada na página 71
+01/01/2025 16:15:31 - Página 71 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_71.pdf
+01/01/2025 16:15:31 - Processando página 72 de 306
+01/01/2025 16:15:31 - Página 72 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_72.pdf
+01/01/2025 16:15:31 - Processando página 73 de 306
+01/01/2025 16:15:31 - Nenhuma imagem encontrada na página 73
+01/01/2025 16:15:32 - Página 73 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_73.pdf
+01/01/2025 16:15:32 - Processando página 74 de 306
+01/01/2025 16:15:32 - Nenhuma imagem encontrada na página 74
+01/01/2025 16:15:32 - Página 74 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_74.pdf
+01/01/2025 16:15:32 - Processando página 75 de 306
+01/01/2025 16:15:32 - Nenhuma imagem encontrada na página 75
+01/01/2025 16:15:32 - Página 75 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_75.pdf
+01/01/2025 16:15:32 - Processando página 76 de 306
+01/01/2025 16:15:32 - Nenhuma imagem encontrada na página 76
+01/01/2025 16:15:33 - Página 76 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_76.pdf
+01/01/2025 16:15:33 - Processando página 77 de 306
+01/01/2025 16:15:33 - Nenhuma imagem encontrada na página 77
+01/01/2025 16:15:33 - Página 77 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_77.pdf
+01/01/2025 16:15:33 - Processando página 78 de 306
+01/01/2025 16:15:33 - Nenhuma imagem encontrada na página 78
+01/01/2025 16:15:33 - Página 78 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_78.pdf
+01/01/2025 16:15:33 - Processando página 79 de 306
+01/01/2025 16:15:33 - Nenhuma imagem encontrada na página 79
+01/01/2025 16:15:34 - Página 79 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_79.pdf
+01/01/2025 16:15:34 - Processando página 80 de 306
+01/01/2025 16:15:34 - Página 80 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_80.pdf
+01/01/2025 16:15:34 - Processando página 81 de 306
+01/01/2025 16:15:34 - Nenhuma imagem encontrada na página 81
+01/01/2025 16:15:35 - Página 81 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_81.pdf
+01/01/2025 16:15:35 - Processando página 82 de 306
+01/01/2025 16:15:35 - Nenhuma imagem encontrada na página 82
+01/01/2025 16:15:35 - Página 82 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_82.pdf
+01/01/2025 16:15:35 - Processando página 83 de 306
+01/01/2025 16:15:35 - Página 83 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_83.pdf
+01/01/2025 16:15:35 - Processando página 84 de 306
+01/01/2025 16:15:36 - Nenhuma imagem encontrada na página 84
+01/01/2025 16:15:36 - Página 84 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_84.pdf
+01/01/2025 16:15:36 - Processando página 85 de 306
+01/01/2025 16:15:36 - Nenhuma imagem encontrada na página 85
+01/01/2025 16:15:36 - Página 85 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_85.pdf
+01/01/2025 16:15:36 - Processando página 86 de 306
+01/01/2025 16:15:36 - Nenhuma imagem encontrada na página 86
+01/01/2025 16:15:37 - Página 86 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_86.pdf
+01/01/2025 16:15:37 - Processando página 87 de 306
+01/01/2025 16:15:37 - Nenhuma imagem encontrada na página 87
+01/01/2025 16:15:37 - Página 87 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_87.pdf
+01/01/2025 16:15:37 - Processando página 88 de 306
+01/01/2025 16:15:37 - Nenhuma imagem encontrada na página 88
+01/01/2025 16:15:37 - Página 88 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_88.pdf
+01/01/2025 16:15:37 - Processando página 89 de 306
+01/01/2025 16:15:38 - Página 89 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_89.pdf
+01/01/2025 16:15:38 - Processando página 90 de 306
+01/01/2025 16:15:38 - Página 90 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_90.pdf
+01/01/2025 16:15:38 - Processando página 91 de 306
+01/01/2025 16:15:38 - Nenhuma imagem encontrada na página 91
+01/01/2025 16:15:39 - Página 91 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_91.pdf
+01/01/2025 16:15:39 - Processando página 92 de 306
+01/01/2025 16:15:39 - Nenhuma imagem encontrada na página 92
+01/01/2025 16:15:39 - Página 92 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_92.pdf
+01/01/2025 16:15:39 - Processando página 93 de 306
+01/01/2025 16:15:39 - Nenhuma imagem encontrada na página 93
+01/01/2025 16:15:39 - Página 93 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_93.pdf
+01/01/2025 16:15:39 - Processando página 94 de 306
+01/01/2025 16:15:39 - Nenhuma imagem encontrada na página 94
+01/01/2025 16:15:40 - Página 94 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_94.pdf
+01/01/2025 16:15:40 - Processando página 95 de 306
+01/01/2025 16:15:40 - Nenhuma imagem encontrada na página 95
+01/01/2025 16:15:40 - Página 95 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_95.pdf
+01/01/2025 16:15:40 - Processando página 96 de 306
+01/01/2025 16:15:40 - Nenhuma imagem encontrada na página 96
+01/01/2025 16:15:40 - Página 96 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_96.pdf
+01/01/2025 16:15:40 - Processando página 97 de 306
+01/01/2025 16:15:40 - Nenhuma imagem encontrada na página 97
+01/01/2025 16:15:41 - Página 97 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_97.pdf
+01/01/2025 16:15:41 - Processando página 98 de 306
+01/01/2025 16:15:41 - Página 98 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_98.pdf
+01/01/2025 16:15:41 - Processando página 99 de 306
+01/01/2025 16:15:41 - Nenhuma imagem encontrada na página 99
+01/01/2025 16:15:41 - Página 99 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_99.pdf
+01/01/2025 16:15:41 - Processando página 100 de 306
+01/01/2025 16:15:41 - Nenhuma imagem encontrada na página 100
+01/01/2025 16:15:41 - Página 100 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_100.pdf
+01/01/2025 16:15:41 - Processando página 101 de 306
+01/01/2025 16:15:42 - Nenhuma imagem encontrada na página 101
+01/01/2025 16:15:42 - Página 101 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_101.pdf
+01/01/2025 16:15:42 - Processando página 102 de 306
+01/01/2025 16:15:42 - Nenhuma imagem encontrada na página 102
+01/01/2025 16:15:42 - Página 102 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_102.pdf
+01/01/2025 16:15:42 - Processando página 103 de 306
+01/01/2025 16:15:42 - Nenhuma imagem encontrada na página 103
+01/01/2025 16:15:43 - Página 103 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_103.pdf
+01/01/2025 16:15:43 - Processando página 104 de 306
+01/01/2025 16:15:43 - Nenhuma imagem encontrada na página 104
+01/01/2025 16:15:43 - Página 104 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_104.pdf
+01/01/2025 16:15:43 - Processando página 105 de 306
+01/01/2025 16:15:43 - Nenhuma imagem encontrada na página 105
+01/01/2025 16:15:44 - Página 105 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_105.pdf
+01/01/2025 16:15:44 - Processando página 106 de 306
+01/01/2025 16:15:44 - Nenhuma imagem encontrada na página 106
+01/01/2025 16:15:44 - Página 106 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_106.pdf
+01/01/2025 16:15:44 - Processando página 107 de 306
+01/01/2025 16:15:44 - Nenhuma imagem encontrada na página 107
+01/01/2025 16:15:44 - Página 107 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_107.pdf
+01/01/2025 16:15:44 - Processando página 108 de 306
+01/01/2025 16:15:45 - Página 108 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_108.pdf
+01/01/2025 16:15:45 - Processando página 109 de 306
+01/01/2025 16:15:45 - Página 109 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_109.pdf
+01/01/2025 16:15:45 - Processando página 110 de 306
+01/01/2025 16:15:45 - Nenhuma imagem encontrada na página 110
+01/01/2025 16:15:45 - Página 110 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_110.pdf
+01/01/2025 16:15:45 - Processando página 111 de 306
+01/01/2025 16:15:45 - Nenhuma imagem encontrada na página 111
+01/01/2025 16:15:46 - Página 111 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_111.pdf
+01/01/2025 16:15:46 - Processando página 112 de 306
+01/01/2025 16:15:46 - Nenhuma imagem encontrada na página 112
+01/01/2025 16:15:46 - Página 112 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_112.pdf
+01/01/2025 16:15:46 - Processando página 113 de 306
+01/01/2025 16:15:46 - Nenhuma imagem encontrada na página 113
+01/01/2025 16:15:46 - Página 113 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_113.pdf
+01/01/2025 16:15:46 - Processando página 114 de 306
+01/01/2025 16:15:46 - Nenhuma imagem encontrada na página 114
+01/01/2025 16:15:47 - Página 114 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_114.pdf
+01/01/2025 16:15:47 - Processando página 115 de 306
+01/01/2025 16:15:47 - Página 115 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_115.pdf
+01/01/2025 16:15:47 - Processando página 116 de 306
+01/01/2025 16:15:47 - Nenhuma imagem encontrada na página 116
+01/01/2025 16:15:47 - Página 116 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_116.pdf
+01/01/2025 16:15:47 - Processando página 117 de 306
+01/01/2025 16:15:47 - Nenhuma imagem encontrada na página 117
+01/01/2025 16:15:48 - Página 117 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_117.pdf
+01/01/2025 16:15:48 - Processando página 118 de 306
+01/01/2025 16:15:48 - Nenhuma imagem encontrada na página 118
+01/01/2025 16:15:48 - Página 118 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_118.pdf
+01/01/2025 16:15:48 - Processando página 119 de 306
+01/01/2025 16:15:48 - Nenhuma imagem encontrada na página 119
+01/01/2025 16:15:48 - Página 119 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_119.pdf
+01/01/2025 16:15:48 - Processando página 120 de 306
+01/01/2025 16:15:48 - Nenhuma imagem encontrada na página 120
+01/01/2025 16:15:49 - Página 120 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_120.pdf
+01/01/2025 16:15:49 - Processando página 121 de 306
+01/01/2025 16:15:49 - Nenhuma imagem encontrada na página 121
+01/01/2025 16:15:49 - Página 121 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_121.pdf
+01/01/2025 16:15:49 - Processando página 122 de 306
+01/01/2025 16:15:49 - Nenhuma imagem encontrada na página 122
+01/01/2025 16:15:49 - Página 122 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_122.pdf
+01/01/2025 16:15:49 - Processando página 123 de 306
+01/01/2025 16:15:50 - Página 123 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_123.pdf
+01/01/2025 16:15:50 - Processando página 124 de 306
+01/01/2025 16:15:50 - Página 124 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_124.pdf
+01/01/2025 16:15:50 - Processando página 125 de 306
+01/01/2025 16:15:50 - Nenhuma imagem encontrada na página 125
+01/01/2025 16:15:50 - Página 125 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_125.pdf
+01/01/2025 16:15:50 - Processando página 126 de 306
+01/01/2025 16:15:50 - Nenhuma imagem encontrada na página 126
+01/01/2025 16:15:51 - Página 126 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_126.pdf
+01/01/2025 16:15:51 - Processando página 127 de 306
+01/01/2025 16:15:51 - Nenhuma imagem encontrada na página 127
+01/01/2025 16:15:51 - Página 127 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_127.pdf
+01/01/2025 16:15:51 - Processando página 128 de 306
+01/01/2025 16:15:51 - Nenhuma imagem encontrada na página 128
+01/01/2025 16:15:51 - Página 128 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_128.pdf
+01/01/2025 16:15:51 - Processando página 129 de 306
+01/01/2025 16:15:51 - Nenhuma imagem encontrada na página 129
+01/01/2025 16:15:52 - Página 129 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_129.pdf
+01/01/2025 16:15:52 - Processando página 130 de 306
+01/01/2025 16:15:52 - Nenhuma imagem encontrada na página 130
+01/01/2025 16:15:52 - Página 130 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_130.pdf
+01/01/2025 16:15:52 - Processando página 131 de 306
+01/01/2025 16:15:53 - Página 131 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_131.pdf
+01/01/2025 16:15:53 - Processando página 132 de 306
+01/01/2025 16:15:53 - Nenhuma imagem encontrada na página 132
+01/01/2025 16:15:53 - Página 132 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_132.pdf
+01/01/2025 16:15:53 - Processando página 133 de 306
+01/01/2025 16:15:53 - Nenhuma imagem encontrada na página 133
+01/01/2025 16:15:53 - Página 133 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_133.pdf
+01/01/2025 16:15:53 - Processando página 134 de 306
+01/01/2025 16:15:53 - Nenhuma imagem encontrada na página 134
+01/01/2025 16:15:53 - Página 134 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_134.pdf
+01/01/2025 16:15:53 - Processando página 135 de 306
+01/01/2025 16:15:53 - Nenhuma imagem encontrada na página 135
+01/01/2025 16:15:54 - Página 135 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_135.pdf
+01/01/2025 16:15:54 - Processando página 136 de 306
+01/01/2025 16:15:54 - Nenhuma imagem encontrada na página 136
+01/01/2025 16:15:54 - Página 136 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_136.pdf
+01/01/2025 16:15:54 - Processando página 137 de 306
+01/01/2025 16:15:54 - Nenhuma imagem encontrada na página 137
+01/01/2025 16:15:55 - Página 137 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_137.pdf
+01/01/2025 16:15:55 - Processando página 138 de 306
+01/01/2025 16:15:55 - Nenhuma imagem encontrada na página 138
+01/01/2025 16:15:55 - Página 138 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_138.pdf
+01/01/2025 16:15:55 - Processando página 139 de 306
+01/01/2025 16:15:55 - Página 139 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_139.pdf
+01/01/2025 16:15:55 - Processando página 140 de 306
+01/01/2025 16:15:55 - Nenhuma imagem encontrada na página 140
+01/01/2025 16:15:56 - Página 140 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_140.pdf
+01/01/2025 16:15:56 - Processando página 141 de 306
+01/01/2025 16:15:56 - Página 141 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_141.pdf
+01/01/2025 16:15:56 - Processando página 142 de 306
+01/01/2025 16:15:56 - Nenhuma imagem encontrada na página 142
+01/01/2025 16:15:56 - Página 142 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_142.pdf
+01/01/2025 16:15:56 - Processando página 143 de 306
+01/01/2025 16:15:56 - Nenhuma imagem encontrada na página 143
+01/01/2025 16:15:57 - Página 143 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_143.pdf
+01/01/2025 16:15:57 - Processando página 144 de 306
+01/01/2025 16:15:57 - Nenhuma imagem encontrada na página 144
+01/01/2025 16:15:57 - Página 144 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_144.pdf
+01/01/2025 16:15:57 - Processando página 145 de 306
+01/01/2025 16:15:57 - Nenhuma imagem encontrada na página 145
+01/01/2025 16:15:58 - Página 145 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_145.pdf
+01/01/2025 16:15:58 - Processando página 146 de 306
+01/01/2025 16:15:58 - Nenhuma imagem encontrada na página 146
+01/01/2025 16:15:58 - Página 146 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_146.pdf
+01/01/2025 16:15:58 - Processando página 147 de 306
+01/01/2025 16:15:58 - Nenhuma imagem encontrada na página 147
+01/01/2025 16:15:58 - Página 147 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_147.pdf
+01/01/2025 16:15:58 - Processando página 148 de 306
+01/01/2025 16:15:58 - Nenhuma imagem encontrada na página 148
+01/01/2025 16:15:59 - Página 148 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_148.pdf
+01/01/2025 16:15:59 - Processando página 149 de 306
+01/01/2025 16:15:59 - Página 149 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_149.pdf
+01/01/2025 16:15:59 - Processando página 150 de 306
+01/01/2025 16:15:59 - Nenhuma imagem encontrada na página 150
+01/01/2025 16:15:59 - Página 150 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_150.pdf
+01/01/2025 16:15:59 - Processando página 151 de 306
+01/01/2025 16:15:59 - Nenhuma imagem encontrada na página 151
+01/01/2025 16:16:00 - Página 151 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_151.pdf
+01/01/2025 16:16:00 - Processando página 152 de 306
+01/01/2025 16:16:00 - Nenhuma imagem encontrada na página 152
+01/01/2025 16:16:00 - Página 152 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_152.pdf
+01/01/2025 16:16:00 - Processando página 153 de 306
+01/01/2025 16:16:00 - Nenhuma imagem encontrada na página 153
+01/01/2025 16:16:01 - Página 153 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_153.pdf
+01/01/2025 16:16:01 - Processando página 154 de 306
+01/01/2025 16:16:01 - Nenhuma imagem encontrada na página 154
+01/01/2025 16:16:01 - Página 154 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_154.pdf
+01/01/2025 16:16:01 - Processando página 155 de 306
+01/01/2025 16:16:01 - Nenhuma imagem encontrada na página 155
+01/01/2025 16:16:01 - Página 155 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_155.pdf
+01/01/2025 16:16:01 - Processando página 156 de 306
+01/01/2025 16:16:02 - Página 156 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_156.pdf
+01/01/2025 16:16:02 - Processando página 157 de 306
+01/01/2025 16:16:02 - Nenhuma imagem encontrada na página 157
+01/01/2025 16:16:02 - Página 157 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_157.pdf
+01/01/2025 16:16:02 - Processando página 158 de 306
+01/01/2025 16:16:02 - Nenhuma imagem encontrada na página 158
+01/01/2025 16:16:03 - Página 158 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_158.pdf
+01/01/2025 16:16:03 - Processando página 159 de 306
+01/01/2025 16:16:03 - Nenhuma imagem encontrada na página 159
+01/01/2025 16:16:03 - Página 159 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_159.pdf
+01/01/2025 16:16:03 - Processando página 160 de 306
+01/01/2025 16:16:03 - Página 160 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_160.pdf
+01/01/2025 16:16:03 - Processando página 161 de 306
+01/01/2025 16:16:03 - Página 161 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_161.pdf
+01/01/2025 16:16:03 - Processando página 162 de 306
+01/01/2025 16:16:04 - Nenhuma imagem encontrada na página 162
+01/01/2025 16:16:04 - Página 162 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_162.pdf
+01/01/2025 16:16:04 - Processando página 163 de 306
+01/01/2025 16:16:04 - Nenhuma imagem encontrada na página 163
+01/01/2025 16:16:04 - Página 163 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_163.pdf
+01/01/2025 16:16:04 - Processando página 164 de 306
+01/01/2025 16:16:04 - Página 164 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_164.pdf
+01/01/2025 16:16:04 - Processando página 165 de 306
+01/01/2025 16:16:04 - Nenhuma imagem encontrada na página 165
+01/01/2025 16:16:05 - Página 165 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_165.pdf
+01/01/2025 16:16:05 - Processando página 166 de 306
+01/01/2025 16:16:05 - Nenhuma imagem encontrada na página 166
+01/01/2025 16:16:05 - Página 166 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_166.pdf
+01/01/2025 16:16:05 - Processando página 167 de 306
+01/01/2025 16:16:06 - Página 167 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_167.pdf
+01/01/2025 16:16:06 - Processando página 168 de 306
+01/01/2025 16:16:06 - Nenhuma imagem encontrada na página 168
+01/01/2025 16:16:06 - Página 168 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_168.pdf
+01/01/2025 16:16:06 - Processando página 169 de 306
+01/01/2025 16:16:06 - Página 169 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_169.pdf
+01/01/2025 16:16:06 - Processando página 170 de 306
+01/01/2025 16:16:07 - Página 170 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_170.pdf
+01/01/2025 16:16:07 - Processando página 171 de 306
+01/01/2025 16:16:07 - Nenhuma imagem encontrada na página 171
+01/01/2025 16:16:07 - Página 171 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_171.pdf
+01/01/2025 16:16:07 - Processando página 172 de 306
+01/01/2025 16:16:07 - Nenhuma imagem encontrada na página 172
+01/01/2025 16:16:07 - Página 172 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_172.pdf
+01/01/2025 16:16:07 - Processando página 173 de 306
+01/01/2025 16:16:07 - Nenhuma imagem encontrada na página 173
+01/01/2025 16:16:08 - Página 173 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_173.pdf
+01/01/2025 16:16:08 - Processando página 174 de 306
+01/01/2025 16:16:08 - Nenhuma imagem encontrada na página 174
+01/01/2025 16:16:08 - Página 174 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_174.pdf
+01/01/2025 16:16:08 - Processando página 175 de 306
+01/01/2025 16:16:08 - Nenhuma imagem encontrada na página 175
+01/01/2025 16:16:08 - Página 175 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_175.pdf
+01/01/2025 16:16:08 - Processando página 176 de 306
+01/01/2025 16:16:08 - Nenhuma imagem encontrada na página 176
+01/01/2025 16:16:09 - Página 176 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_176.pdf
+01/01/2025 16:16:09 - Processando página 177 de 306
+01/01/2025 16:16:09 - Nenhuma imagem encontrada na página 177
+01/01/2025 16:16:09 - Página 177 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_177.pdf
+01/01/2025 16:16:09 - Processando página 178 de 306
+01/01/2025 16:16:09 - Nenhuma imagem encontrada na página 178
+01/01/2025 16:16:09 - Página 178 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_178.pdf
+01/01/2025 16:16:09 - Processando página 179 de 306
+01/01/2025 16:16:10 - Página 179 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_179.pdf
+01/01/2025 16:16:10 - Processando página 180 de 306
+01/01/2025 16:16:10 - Nenhuma imagem encontrada na página 180
+01/01/2025 16:16:10 - Página 180 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_180.pdf
+01/01/2025 16:16:10 - Processando página 181 de 306
+01/01/2025 16:16:10 - Nenhuma imagem encontrada na página 181
+01/01/2025 16:16:10 - Página 181 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_181.pdf
+01/01/2025 16:16:10 - Processando página 182 de 306
+01/01/2025 16:16:10 - Nenhuma imagem encontrada na página 182
+01/01/2025 16:16:11 - Página 182 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_182.pdf
+01/01/2025 16:16:11 - Processando página 183 de 306
+01/01/2025 16:16:11 - Nenhuma imagem encontrada na página 183
+01/01/2025 16:16:11 - Página 183 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_183.pdf
+01/01/2025 16:16:11 - Processando página 184 de 306
+01/01/2025 16:16:11 - Nenhuma imagem encontrada na página 184
+01/01/2025 16:16:11 - Página 184 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_184.pdf
+01/01/2025 16:16:11 - Processando página 185 de 306
+01/01/2025 16:16:11 - Nenhuma imagem encontrada na página 185
+01/01/2025 16:16:12 - Página 185 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_185.pdf
+01/01/2025 16:16:12 - Processando página 186 de 306
+01/01/2025 16:16:12 - Nenhuma imagem encontrada na página 186
+01/01/2025 16:16:12 - Página 186 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_186.pdf
+01/01/2025 16:16:12 - Processando página 187 de 306
+01/01/2025 16:16:12 - Página 187 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_187.pdf
+01/01/2025 16:16:12 - Processando página 188 de 306
+01/01/2025 16:16:12 - Nenhuma imagem encontrada na página 188
+01/01/2025 16:16:13 - Página 188 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_188.pdf
+01/01/2025 16:16:13 - Processando página 189 de 306
+01/01/2025 16:16:13 - Nenhuma imagem encontrada na página 189
+01/01/2025 16:16:13 - Página 189 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_189.pdf
+01/01/2025 16:16:13 - Processando página 190 de 306
+01/01/2025 16:16:13 - Nenhuma imagem encontrada na página 190
+01/01/2025 16:16:13 - Página 190 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_190.pdf
+01/01/2025 16:16:13 - Processando página 191 de 306
+01/01/2025 16:16:13 - Nenhuma imagem encontrada na página 191
+01/01/2025 16:16:14 - Página 191 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_191.pdf
+01/01/2025 16:16:14 - Processando página 192 de 306
+01/01/2025 16:16:14 - Nenhuma imagem encontrada na página 192
+01/01/2025 16:16:14 - Página 192 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_192.pdf
+01/01/2025 16:16:14 - Processando página 193 de 306
+01/01/2025 16:16:14 - Nenhuma imagem encontrada na página 193
+01/01/2025 16:16:15 - Página 193 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_193.pdf
+01/01/2025 16:16:15 - Processando página 194 de 306
+01/01/2025 16:16:15 - Nenhuma imagem encontrada na página 194
+01/01/2025 16:16:15 - Página 194 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_194.pdf
+01/01/2025 16:16:15 - Processando página 195 de 306
+01/01/2025 16:16:15 - Página 195 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_195.pdf
+01/01/2025 16:16:15 - Processando página 196 de 306
+01/01/2025 16:16:15 - Nenhuma imagem encontrada na página 196
+01/01/2025 16:16:16 - Página 196 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_196.pdf
+01/01/2025 16:16:16 - Processando página 197 de 306
+01/01/2025 16:16:16 - Nenhuma imagem encontrada na página 197
+01/01/2025 16:16:16 - Página 197 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_197.pdf
+01/01/2025 16:16:16 - Processando página 198 de 306
+01/01/2025 16:16:16 - Nenhuma imagem encontrada na página 198
+01/01/2025 16:16:17 - Página 198 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_198.pdf
+01/01/2025 16:16:17 - Processando página 199 de 306
+01/01/2025 16:16:17 - Nenhuma imagem encontrada na página 199
+01/01/2025 16:16:17 - Página 199 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_199.pdf
+01/01/2025 16:16:17 - Processando página 200 de 306
+01/01/2025 16:16:17 - Nenhuma imagem encontrada na página 200
+01/01/2025 16:16:17 - Página 200 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_200.pdf
+01/01/2025 16:16:17 - Processando página 201 de 306
+01/01/2025 16:16:18 - Página 201 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_201.pdf
+01/01/2025 16:16:18 - Processando página 202 de 306
+01/01/2025 16:16:18 - Nenhuma imagem encontrada na página 202
+01/01/2025 16:16:18 - Página 202 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_202.pdf
+01/01/2025 16:16:18 - Processando página 203 de 306
+01/01/2025 16:16:18 - Nenhuma imagem encontrada na página 203
+01/01/2025 16:16:19 - Página 203 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_203.pdf
+01/01/2025 16:16:19 - Processando página 204 de 306
+01/01/2025 16:16:19 - Nenhuma imagem encontrada na página 204
+01/01/2025 16:16:19 - Página 204 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_204.pdf
+01/01/2025 16:16:19 - Processando página 205 de 306
+01/01/2025 16:16:19 - Nenhuma imagem encontrada na página 205
+01/01/2025 16:16:20 - Página 205 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_205.pdf
+01/01/2025 16:16:20 - Processando página 206 de 306
+01/01/2025 16:16:20 - Nenhuma imagem encontrada na página 206
+01/01/2025 16:16:20 - Página 206 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_206.pdf
+01/01/2025 16:16:20 - Processando página 207 de 306
+01/01/2025 16:16:20 - Página 207 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_207.pdf
+01/01/2025 16:16:20 - Processando página 208 de 306
+01/01/2025 16:16:20 - Nenhuma imagem encontrada na página 208
+01/01/2025 16:16:21 - Página 208 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_208.pdf
+01/01/2025 16:16:21 - Processando página 209 de 306
+01/01/2025 16:16:21 - Nenhuma imagem encontrada na página 209
+01/01/2025 16:16:21 - Página 209 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_209.pdf
+01/01/2025 16:16:21 - Processando página 210 de 306
+01/01/2025 16:16:21 - Nenhuma imagem encontrada na página 210
+01/01/2025 16:16:21 - Página 210 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_210.pdf
+01/01/2025 16:16:21 - Processando página 211 de 306
+01/01/2025 16:16:21 - Nenhuma imagem encontrada na página 211
+01/01/2025 16:16:22 - Página 211 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_211.pdf
+01/01/2025 16:16:22 - Processando página 212 de 306
+01/01/2025 16:16:22 - Nenhuma imagem encontrada na página 212
+01/01/2025 16:16:22 - Página 212 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_212.pdf
+01/01/2025 16:16:22 - Processando página 213 de 306
+01/01/2025 16:16:22 - Página 213 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_213.pdf
+01/01/2025 16:16:22 - Processando página 214 de 306
+01/01/2025 16:16:22 - Nenhuma imagem encontrada na página 214
+01/01/2025 16:16:23 - Página 214 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_214.pdf
+01/01/2025 16:16:23 - Processando página 215 de 306
+01/01/2025 16:16:23 - Nenhuma imagem encontrada na página 215
+01/01/2025 16:16:23 - Página 215 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_215.pdf
+01/01/2025 16:16:23 - Processando página 216 de 306
+01/01/2025 16:16:23 - Nenhuma imagem encontrada na página 216
+01/01/2025 16:16:23 - Página 216 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_216.pdf
+01/01/2025 16:16:23 - Processando página 217 de 306
+01/01/2025 16:16:24 - Página 217 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_217.pdf
+01/01/2025 16:16:24 - Processando página 218 de 306
+01/01/2025 16:16:24 - Página 218 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_218.pdf
+01/01/2025 16:16:24 - Processando página 219 de 306
+01/01/2025 16:16:24 - Nenhuma imagem encontrada na página 219
+01/01/2025 16:16:24 - Página 219 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_219.pdf
+01/01/2025 16:16:24 - Processando página 220 de 306
+01/01/2025 16:16:24 - Nenhuma imagem encontrada na página 220
+01/01/2025 16:16:25 - Página 220 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_220.pdf
+01/01/2025 16:16:25 - Processando página 221 de 306
+01/01/2025 16:16:25 - Nenhuma imagem encontrada na página 221
+01/01/2025 16:16:25 - Página 221 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_221.pdf
+01/01/2025 16:16:25 - Processando página 222 de 306
+01/01/2025 16:16:25 - Nenhuma imagem encontrada na página 222
+01/01/2025 16:16:25 - Página 222 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_222.pdf
+01/01/2025 16:16:25 - Processando página 223 de 306
+01/01/2025 16:16:26 - Página 223 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_223.pdf
+01/01/2025 16:16:26 - Processando página 224 de 306
+01/01/2025 16:16:26 - Nenhuma imagem encontrada na página 224
+01/01/2025 16:16:26 - Página 224 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_224.pdf
+01/01/2025 16:16:26 - Processando página 225 de 306
+01/01/2025 16:16:26 - Nenhuma imagem encontrada na página 225
+01/01/2025 16:16:27 - Página 225 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_225.pdf
+01/01/2025 16:16:27 - Processando página 226 de 306
+01/01/2025 16:16:27 - Nenhuma imagem encontrada na página 226
+01/01/2025 16:16:27 - Página 226 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_226.pdf
+01/01/2025 16:16:27 - Processando página 227 de 306
+01/01/2025 16:16:27 - Nenhuma imagem encontrada na página 227
+01/01/2025 16:16:27 - Página 227 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_227.pdf
+01/01/2025 16:16:27 - Processando página 228 de 306
+01/01/2025 16:16:27 - Nenhuma imagem encontrada na página 228
+01/01/2025 16:16:28 - Página 228 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_228.pdf
+01/01/2025 16:16:28 - Processando página 229 de 306
+01/01/2025 16:16:28 - Nenhuma imagem encontrada na página 229
+01/01/2025 16:16:28 - Página 229 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_229.pdf
+01/01/2025 16:16:28 - Processando página 230 de 306
+01/01/2025 16:16:28 - Nenhuma imagem encontrada na página 230
+01/01/2025 16:16:29 - Página 230 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_230.pdf
+01/01/2025 16:16:29 - Processando página 231 de 306
+01/01/2025 16:16:29 - Página 231 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_231.pdf
+01/01/2025 16:16:29 - Processando página 232 de 306
+01/01/2025 16:16:29 - Nenhuma imagem encontrada na página 232
+01/01/2025 16:16:29 - Página 232 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_232.pdf
+01/01/2025 16:16:29 - Processando página 233 de 306
+01/01/2025 16:16:29 - Nenhuma imagem encontrada na página 233
+01/01/2025 16:16:30 - Página 233 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_233.pdf
+01/01/2025 16:16:30 - Processando página 234 de 306
+01/01/2025 16:16:30 - Nenhuma imagem encontrada na página 234
+01/01/2025 16:16:30 - Página 234 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_234.pdf
+01/01/2025 16:16:30 - Processando página 235 de 306
+01/01/2025 16:16:30 - Página 235 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_235.pdf
+01/01/2025 16:16:30 - Processando página 236 de 306
+01/01/2025 16:16:30 - Nenhuma imagem encontrada na página 236
+01/01/2025 16:16:31 - Página 236 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_236.pdf
+01/01/2025 16:16:31 - Processando página 237 de 306
+01/01/2025 16:16:31 - Nenhuma imagem encontrada na página 237
+01/01/2025 16:16:31 - Página 237 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_237.pdf
+01/01/2025 16:16:31 - Processando página 238 de 306
+01/01/2025 16:16:31 - Nenhuma imagem encontrada na página 238
+01/01/2025 16:16:32 - Página 238 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_238.pdf
+01/01/2025 16:16:32 - Processando página 239 de 306
+01/01/2025 16:16:32 - Nenhuma imagem encontrada na página 239
+01/01/2025 16:16:32 - Página 239 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_239.pdf
+01/01/2025 16:16:32 - Processando página 240 de 306
+01/01/2025 16:16:32 - Nenhuma imagem encontrada na página 240
+01/01/2025 16:16:32 - Página 240 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_240.pdf
+01/01/2025 16:16:32 - Processando página 241 de 306
+01/01/2025 16:16:33 - Página 241 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_241.pdf
+01/01/2025 16:16:33 - Processando página 242 de 306
+01/01/2025 16:16:33 - Nenhuma imagem encontrada na página 242
+01/01/2025 16:16:33 - Página 242 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_242.pdf
+01/01/2025 16:16:33 - Processando página 243 de 306
+01/01/2025 16:16:33 - Nenhuma imagem encontrada na página 243
+01/01/2025 16:16:33 - Página 243 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_243.pdf
+01/01/2025 16:16:33 - Processando página 244 de 306
+01/01/2025 16:16:33 - Nenhuma imagem encontrada na página 244
+01/01/2025 16:16:34 - Página 244 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_244.pdf
+01/01/2025 16:16:34 - Processando página 245 de 306
+01/01/2025 16:16:34 - Nenhuma imagem encontrada na página 245
+01/01/2025 16:16:34 - Página 245 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_245.pdf
+01/01/2025 16:16:34 - Processando página 246 de 306
+01/01/2025 16:16:34 - Nenhuma imagem encontrada na página 246
+01/01/2025 16:16:34 - Página 246 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_246.pdf
+01/01/2025 16:16:34 - Processando página 247 de 306
+01/01/2025 16:16:34 - Nenhuma imagem encontrada na página 247
+01/01/2025 16:16:35 - Página 247 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_247.pdf
+01/01/2025 16:16:35 - Processando página 248 de 306
+01/01/2025 16:16:35 - Nenhuma imagem encontrada na página 248
+01/01/2025 16:16:35 - Página 248 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_248.pdf
+01/01/2025 16:16:35 - Processando página 249 de 306
+01/01/2025 16:16:35 - Nenhuma imagem encontrada na página 249
+01/01/2025 16:16:35 - Página 249 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_249.pdf
+01/01/2025 16:16:35 - Processando página 250 de 306
+01/01/2025 16:16:35 - Nenhuma imagem encontrada na página 250
+01/01/2025 16:16:35 - Página 250 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_250.pdf
+01/01/2025 16:16:35 - Processando página 251 de 306
+01/01/2025 16:16:36 - Página 251 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_251.pdf
+01/01/2025 16:16:36 - Processando página 252 de 306
+01/01/2025 16:16:36 - Nenhuma imagem encontrada na página 252
+01/01/2025 16:16:36 - Página 252 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_252.pdf
+01/01/2025 16:16:36 - Processando página 253 de 306
+01/01/2025 16:16:36 - Nenhuma imagem encontrada na página 253
+01/01/2025 16:16:37 - Página 253 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_253.pdf
+01/01/2025 16:16:37 - Processando página 254 de 306
+01/01/2025 16:16:37 - Nenhuma imagem encontrada na página 254
+01/01/2025 16:16:37 - Página 254 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_254.pdf
+01/01/2025 16:16:37 - Processando página 255 de 306
+01/01/2025 16:16:37 - Nenhuma imagem encontrada na página 255
+01/01/2025 16:16:38 - Página 255 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_255.pdf
+01/01/2025 16:16:38 - Processando página 256 de 306
+01/01/2025 16:16:38 - Nenhuma imagem encontrada na página 256
+01/01/2025 16:16:38 - Página 256 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_256.pdf
+01/01/2025 16:16:38 - Processando página 257 de 306
+01/01/2025 16:16:38 - Página 257 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_257.pdf
+01/01/2025 16:16:38 - Processando página 258 de 306
+01/01/2025 16:16:38 - Nenhuma imagem encontrada na página 258
+01/01/2025 16:16:39 - Página 258 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_258.pdf
+01/01/2025 16:16:39 - Processando página 259 de 306
+01/01/2025 16:16:39 - Nenhuma imagem encontrada na página 259
+01/01/2025 16:16:39 - Página 259 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_259.pdf
+01/01/2025 16:16:39 - Processando página 260 de 306
+01/01/2025 16:16:39 - Nenhuma imagem encontrada na página 260
+01/01/2025 16:16:39 - Página 260 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_260.pdf
+01/01/2025 16:16:39 - Processando página 261 de 306
+01/01/2025 16:16:39 - Nenhuma imagem encontrada na página 261
+01/01/2025 16:16:40 - Página 261 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_261.pdf
+01/01/2025 16:16:40 - Processando página 262 de 306
+01/01/2025 16:16:40 - Página 262 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_262.pdf
+01/01/2025 16:16:40 - Processando página 263 de 306
+01/01/2025 16:16:40 - Nenhuma imagem encontrada na página 263
+01/01/2025 16:16:40 - Página 263 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_263.pdf
+01/01/2025 16:16:40 - Processando página 264 de 306
+01/01/2025 16:16:40 - Nenhuma imagem encontrada na página 264
+01/01/2025 16:16:41 - Página 264 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_264.pdf
+01/01/2025 16:16:41 - Processando página 265 de 306
+01/01/2025 16:16:41 - Página 265 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_265.pdf
+01/01/2025 16:16:41 - Processando página 266 de 306
+01/01/2025 16:16:41 - Nenhuma imagem encontrada na página 266
+01/01/2025 16:16:42 - Página 266 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_266.pdf
+01/01/2025 16:16:42 - Processando página 267 de 306
+01/01/2025 16:16:42 - Nenhuma imagem encontrada na página 267
+01/01/2025 16:16:42 - Página 267 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_267.pdf
+01/01/2025 16:16:42 - Processando página 268 de 306
+01/01/2025 16:16:42 - Nenhuma imagem encontrada na página 268
+01/01/2025 16:16:43 - Página 268 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_268.pdf
+01/01/2025 16:16:43 - Processando página 269 de 306
+01/01/2025 16:16:43 - Nenhuma imagem encontrada na página 269
+01/01/2025 16:16:43 - Página 269 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_269.pdf
+01/01/2025 16:16:43 - Processando página 270 de 306
+01/01/2025 16:16:43 - Nenhuma imagem encontrada na página 270
+01/01/2025 16:16:43 - Página 270 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_270.pdf
+01/01/2025 16:16:43 - Processando página 271 de 306
+01/01/2025 16:16:43 - Nenhuma imagem encontrada na página 271
+01/01/2025 16:16:44 - Página 271 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_271.pdf
+01/01/2025 16:16:44 - Processando página 272 de 306
+01/01/2025 16:16:44 - Nenhuma imagem encontrada na página 272
+01/01/2025 16:16:44 - Página 272 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_272.pdf
+01/01/2025 16:16:44 - Processando página 273 de 306
+01/01/2025 16:16:45 - Página 273 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_273.pdf
+01/01/2025 16:16:45 - Processando página 274 de 306
+01/01/2025 16:16:45 - Nenhuma imagem encontrada na página 274
+01/01/2025 16:16:45 - Página 274 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_274.pdf
+01/01/2025 16:16:45 - Processando página 275 de 306
+01/01/2025 16:16:45 - Nenhuma imagem encontrada na página 275
+01/01/2025 16:16:45 - Página 275 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_275.pdf
+01/01/2025 16:16:45 - Processando página 276 de 306
+01/01/2025 16:16:45 - Nenhuma imagem encontrada na página 276
+01/01/2025 16:16:46 - Página 276 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_276.pdf
+01/01/2025 16:16:46 - Processando página 277 de 306
+01/01/2025 16:16:46 - Nenhuma imagem encontrada na página 277
+01/01/2025 16:16:46 - Página 277 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_277.pdf
+01/01/2025 16:16:46 - Processando página 278 de 306
+01/01/2025 16:16:46 - Nenhuma imagem encontrada na página 278
+01/01/2025 16:16:46 - Página 278 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_278.pdf
+01/01/2025 16:16:46 - Processando página 279 de 306
+01/01/2025 16:16:46 - Nenhuma imagem encontrada na página 279
+01/01/2025 16:16:47 - Página 279 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_279.pdf
+01/01/2025 16:16:47 - Processando página 280 de 306
+01/01/2025 16:16:47 - Nenhuma imagem encontrada na página 280
+01/01/2025 16:16:47 - Página 280 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_280.pdf
+01/01/2025 16:16:47 - Processando página 281 de 306
+01/01/2025 16:16:47 - Nenhuma imagem encontrada na página 281
+01/01/2025 16:16:47 - Página 281 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_281.pdf
+01/01/2025 16:16:47 - Processando página 282 de 306
+01/01/2025 16:16:47 - Nenhuma imagem encontrada na página 282
+01/01/2025 16:16:48 - Página 282 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_282.pdf
+01/01/2025 16:16:48 - Processando página 283 de 306
+01/01/2025 16:16:48 - Nenhuma imagem encontrada na página 283
+01/01/2025 16:16:48 - Página 283 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_283.pdf
+01/01/2025 16:16:48 - Processando página 284 de 306
+01/01/2025 16:16:49 - Página 284 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_284.pdf
+01/01/2025 16:16:49 - Processando página 285 de 306
+01/01/2025 16:16:49 - Nenhuma imagem encontrada na página 285
+01/01/2025 16:16:49 - Página 285 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_285.pdf
+01/01/2025 16:16:49 - Processando página 286 de 306
+01/01/2025 16:16:49 - Nenhuma imagem encontrada na página 286
+01/01/2025 16:16:49 - Página 286 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_286.pdf
+01/01/2025 16:16:49 - Processando página 287 de 306
+01/01/2025 16:16:49 - Nenhuma imagem encontrada na página 287
+01/01/2025 16:16:50 - Página 287 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_287.pdf
+01/01/2025 16:16:50 - Processando página 288 de 306
+01/01/2025 16:16:50 - Nenhuma imagem encontrada na página 288
+01/01/2025 16:16:50 - Página 288 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_288.pdf
+01/01/2025 16:16:50 - Processando página 289 de 306
+01/01/2025 16:16:50 - Nenhuma imagem encontrada na página 289
+01/01/2025 16:16:51 - Página 289 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_289.pdf
+01/01/2025 16:16:51 - Processando página 290 de 306
+01/01/2025 16:16:51 - Nenhuma imagem encontrada na página 290
+01/01/2025 16:16:51 - Página 290 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_290.pdf
+01/01/2025 16:16:51 - Processando página 291 de 306
+01/01/2025 16:16:51 - Nenhuma imagem encontrada na página 291
+01/01/2025 16:16:51 - Página 291 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_291.pdf
+01/01/2025 16:16:51 - Processando página 292 de 306
+01/01/2025 16:16:51 - Nenhuma imagem encontrada na página 292
+01/01/2025 16:16:52 - Página 292 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_292.pdf
+01/01/2025 16:16:52 - Processando página 293 de 306
+01/01/2025 16:16:52 - Nenhuma imagem encontrada na página 293
+01/01/2025 16:16:52 - Página 293 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_293.pdf
+01/01/2025 16:16:52 - Processando página 294 de 306
+01/01/2025 16:16:52 - Nenhuma imagem encontrada na página 294
+01/01/2025 16:16:52 - Página 294 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_294.pdf
+01/01/2025 16:16:52 - Processando página 295 de 306
+01/01/2025 16:16:52 - Nenhuma imagem encontrada na página 295
+01/01/2025 16:16:53 - Página 295 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_295.pdf
+01/01/2025 16:16:53 - Processando página 296 de 306
+01/01/2025 16:16:53 - Nenhuma imagem encontrada na página 296
+01/01/2025 16:16:53 - Página 296 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_296.pdf
+01/01/2025 16:16:53 - Processando página 297 de 306
+01/01/2025 16:16:53 - Nenhuma imagem encontrada na página 297
+01/01/2025 16:16:53 - Página 297 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_297.pdf
+01/01/2025 16:16:53 - Processando página 298 de 306
+01/01/2025 16:16:53 - Nenhuma imagem encontrada na página 298
+01/01/2025 16:16:54 - Página 298 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_298.pdf
+01/01/2025 16:16:54 - Processando página 299 de 306
+01/01/2025 16:16:54 - Nenhuma imagem encontrada na página 299
+01/01/2025 16:16:54 - Página 299 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_299.pdf
+01/01/2025 16:16:54 - Processando página 300 de 306
+01/01/2025 16:16:54 - Nenhuma imagem encontrada na página 300
+01/01/2025 16:16:54 - Página 300 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_300.pdf
+01/01/2025 16:16:54 - Processando página 301 de 306
+01/01/2025 16:16:54 - Nenhuma imagem encontrada na página 301
+01/01/2025 16:16:55 - Página 301 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_301.pdf
+01/01/2025 16:16:55 - Processando página 302 de 306
+01/01/2025 16:16:55 - Nenhuma imagem encontrada na página 302
+01/01/2025 16:16:55 - Página 302 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_302.pdf
+01/01/2025 16:16:55 - Processando página 303 de 306
+01/01/2025 16:16:55 - Nenhuma imagem encontrada na página 303
+01/01/2025 16:16:55 - Página 303 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_303.pdf
+01/01/2025 16:16:55 - Processando página 304 de 306
+01/01/2025 16:16:55 - Nenhuma imagem encontrada na página 304
+01/01/2025 16:16:56 - Página 304 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_304.pdf
+01/01/2025 16:16:56 - Processando página 305 de 306
+01/01/2025 16:16:56 - Nenhuma imagem encontrada na página 305
+01/01/2025 16:16:56 - Página 305 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_305.pdf
+01/01/2025 16:16:56 - Processando página 306 de 306
+01/01/2025 16:16:56 - Nenhuma imagem encontrada na página 306
+01/01/2025 16:16:56 - Página 306 salva em paginas_traduzidas\traduzidas_2025-01-01_16-15-04/pagina_306.pdf
+01/01/2025 16:17:04 - PDF traduzido e combinado salvo como arquivos_traduzidos\traduzido_2025-01-01_16-15-04\teste_traduzido.pdf
+01/01/2025 16:17:04 - EPUB traduzido salvo como arquivos_traduzidos\traduzido_2025-01-01_16-15-04\teste_traduzido.epub

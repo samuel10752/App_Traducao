@@ -1,0 +1,19 @@
+01/01/2025 16:20:21 - Tradução iniciada em: 2025-01-01_16-20-21
+01/01/2025 16:20:21 - Processando página 1 de 306
+01/01/2025 16:20:21 - Página 1 salva em paginas_traduzidas\traduzidas_2025-01-01_16-20-21/pagina_1.pdf
+01/01/2025 16:20:21 - Processando página 2 de 306
+01/01/2025 16:20:21 - Página 2 salva em paginas_traduzidas\traduzidas_2025-01-01_16-20-21/pagina_2.pdf
+01/01/2025 16:20:21 - Processando página 3 de 306
+01/01/2025 16:20:22 - Página 3 salva em paginas_traduzidas\traduzidas_2025-01-01_16-20-21/pagina_3.pdf
+01/01/2025 16:20:22 - Processando página 4 de 306
+01/01/2025 16:20:22 - Página 4 salva em paginas_traduzidas\traduzidas_2025-01-01_16-20-21/pagina_4.pdf
+01/01/2025 16:20:22 - Processando página 5 de 306
+01/01/2025 16:20:22 - Página 5 salva em paginas_traduzidas\traduzidas_2025-01-01_16-20-21/pagina_5.pdf
+01/01/2025 16:20:22 - Processando página 6 de 306
+01/01/2025 16:20:22 - Página 6 salva em paginas_traduzidas\traduzidas_2025-01-01_16-20-21/pagina_6.pdf
+01/01/2025 16:20:22 - Processando página 7 de 306
+01/01/2025 16:20:22 - Página 7 salva em paginas_traduzidas\traduzidas_2025-01-01_16-20-21/pagina_7.pdf
+01/01/2025 16:20:22 - Processando página 8 de 306
+01/01/2025 16:20:23 - Página 8 salva em paginas_traduzidas\traduzidas_2025-01-01_16-20-21/pagina_8.pdf
+01/01/2025 16:20:23 - Processando página 9 de 306
+01/01/2025 16:20:23 - Erro ao processar o arquivo: Character "“" at index 20 in text is outside the range of characters supported by the font used: "helvetica". Please consider using a Unicode font.
