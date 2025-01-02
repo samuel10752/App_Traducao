@@ -141,11 +141,11 @@ def traduzir_pdf_em_paginas(arquivo_entrada, output_format, idioma_destino="pt")
     try:
         now = datetime.now()
         timestamp = now.strftime("%Y-%m-%d_%H-%M-%S")
-        central_pasta_paginas = "paginas_traduzidas"
-        central_pasta_logs = "log"
+        central_pasta_paginas = "Arquivo_Executavel/Paginas_tradutor"
+        central_pasta_logs = "Arquivo_Executavel/Logs"
         pasta_paginas = os.path.join(central_pasta_paginas, f"traduzidas_{timestamp}")
         pasta_logs = os.path.join(central_pasta_logs, f"log_{timestamp}")
-        pasta_arquivos_finais = os.path.join("arquivos_traduzidos", f"traduzido_{timestamp}")
+        pasta_arquivos_finais = os.path.join("Arquivo_Executavel/Arquivos_prontos", f"traduzido_{timestamp}")
 
         os.makedirs(pasta_paginas, exist_ok=True)
         os.makedirs(pasta_logs, exist_ok=True)
@@ -160,9 +160,12 @@ def traduzir_pdf_em_paginas(arquivo_entrada, output_format, idioma_destino="pt")
         translated_pages = []
         content_for_epub = []
 
-        unicode_font = "DejaVuSans.ttf"
+        unicode_font = "Arquivo_Executavel/fonte/DejaVuSans.ttf"
         if not os.path.exists(unicode_font):
-            raise FileNotFoundError(f"A fonte Unicode {unicode_font} não foi encontrada.")
+            messagebox.showerror("Erro", f"A fonte Unicode {unicode_font} não foi encontrada. "
+                                          f"Baixe a fonte e coloque-a no diretório do script ou atualize o caminho.")
+            return
+
 
         largura_a4 = 210
         altura_a4 = 297
@@ -184,8 +187,8 @@ def traduzir_pdf_em_paginas(arquivo_entrada, output_format, idioma_destino="pt")
 
             pdf = FPDF(unit='mm', format='A4')
             pdf.add_page()
-            pdf.add_font("DejaVu", '', unicode_font, uni=True)
-            pdf.set_font("DejaVu", size=10)
+            pdf.add_font("DejaVuSans", '', unicode_font, uni=True)
+            pdf.set_font("DejaVuSans", size=10)
 
             y_offset = 10
 
